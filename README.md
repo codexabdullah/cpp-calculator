@@ -8,5 +8,9 @@ A simple calculator built using C++.
 - Multiplication
 - Division
 
+## How to Run
+1. Compile using g++
+2. Run the executable file
+
 ## Author
 Abdullah Imran
